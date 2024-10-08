@@ -1,0 +1,39 @@
+name: bolt_clone
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:  
+  sdk: ">=2.19.6 <4.0.0"
+  
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.2.0
+  firebase_core: ^3.5.0
+  firebase_auth: ^5.3.0
+        
+        
+dev_dependencies:
+  flutter_test:
+      sdk: flutter
+  flutter_lints: ^2.0.0  
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/car.png
+    - assets/images/watch.png
+    - assets/images/safety.png
+    - assets/images/flying man.png
+    - assets/images/ghana flag.png
+    - assets/images/google icon.jpg
+    - assets/images/facebook logo.png
+
+
+
+fonts:
+  - family: SofadiOne
+    fonts:
+      - asset: assets/fonts/SofadiOne-Regular.ttf          

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776394058477",
+    "project_id": "bolt-clone-824fa",
+    "storage_bucket": "bolt-clone-824fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776394058477:android:265a309334b7ee88ff7ae4",
+        "android_client_info": {
+          "package_name": "com.example.bolt_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_Z5yCfmUexo3GqL4DIn51UD1ZRNArhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
